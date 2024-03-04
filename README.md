@@ -31,9 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,eclipse" /><br>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=git,aws,linux,js,github,discord" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,eclipse,vscode,git,aws,linux,github,discord,maven,kafka,jenkins,docker,postman" /><br>
+   <!-- <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=git,aws,linux,github,discord,maven,kafka,jenkins,docker,postman" /> -->
 </div>
 <hr/>
 
