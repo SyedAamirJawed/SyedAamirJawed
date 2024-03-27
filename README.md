@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Aamir+Jawed!;" />
 </h1>
-<h3 align="center">"Versatile Full Stack Java Developer with Proficiency in Flutter Dart, Embarking on a Journey to Master JavaScript"</h3>
+<h3 align="center">"Experienced Java backend developer adept in Spring Boot, Microservices, Hibernate. Skilled in version control, API, debugging, logging and java runtime project."</h3>
 
 
 <div align=center>
